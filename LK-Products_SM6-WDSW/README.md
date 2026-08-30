@@ -7,7 +7,7 @@ TX: 80.6375 - 81.5625 MHz
 RX: 75.6375 - 76.5625 MHz  
 SIMPLEX: 68-88 MHz  
 
-![alt text](./filter.png "Filter")  
+![alt text](https://raw.githubusercontent.com/SA6HBR/AntennaFilter/refs/heads/main/LK-Products_SM6-WDSW/Filter.png)  
 
 ## Measurement
 First measurement on the filter:  
