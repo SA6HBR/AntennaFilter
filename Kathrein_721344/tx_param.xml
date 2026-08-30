@@ -2,6 +2,7 @@
 <SXP>
   <Settings refImp="50">
     <Projectname>tx</Projectname>
+    <ProjectInfo><![CDATA[The filter cannot be adjusted. Parameters 1 and 2 are the relay inputs.]]></ProjectInfo>
   </Settings>
   <Param1>
     <Param1Name>P1</Param1Name>
@@ -15,4 +16,5 @@
   <Param4>
     <Param4Name>P4</Param4Name>
   </Param4>
+  <Favorites />
 </SXP>
