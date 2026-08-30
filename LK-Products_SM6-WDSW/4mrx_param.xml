@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SXP>
+  <Settings refImp="50">
+    <Projectname>4mrx</Projectname>
+    <ProjectInfo><![CDATA[Measurement on the RX section of the filter]]></ProjectInfo>
+  </Settings>
+  <Param1>
+    <Param1Name>P1</Param1Name>
+  </Param1>
+  <Param2>
+    <Param2Name>P2</Param2Name>
+  </Param2>
+  <Param3>
+    <Param3Name>P3</Param3Name>
+  </Param3>
+  <Param4>
+    <Param4Name>P4</Param4Name>
+  </Param4>
+  <Favorites>
+    <Favorite>6-6-6</Favorite>
+  </Favorites>
+</SXP>
